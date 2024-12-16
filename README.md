@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-480&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-480" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Dev**
+- 🔭 I’m currently working on **Xolo- Personal voice Assistant**
+
+- 🌱 I’m currently learning **React and Node**
+
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **mohitranjan480@gmail.com**
 
